@@ -2,7 +2,7 @@
   "name": "certain-death",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://jonbrunt.github.io/Operation-Certain-Death",
+  "homepage": "https://jonbrunt.github.io/Brunt-Notes-App",
   "dependencies": {
     "ajv": "^6.1.1",
     "axios": "^0.18.0",
