@@ -1,4 +1,4 @@
-import axios from 'axios';
+import axios from 'axios'; // lightweight HTTP client import
 
 export const ADDING_NOTE = 'ADD_NOTE';
 export const ADDED_NOTE = 'ADDED_NOTE';
